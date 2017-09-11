@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209561383785",
+    "firebase_url": "https://hellofirebase-f79b4.firebaseio.com",
+    "project_id": "hellofirebase-f79b4",
+    "storage_bucket": "hellofirebase-f79b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209561383785:android:3114d038d83fcf7a",
+        "android_client_info": {
+          "package_name": "raphael.br.com.hellofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209561383785-oktl2vvqep0iq2iav58kjmi1b84v19ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNiaX1Xoo_dG_c6K37xfBElqcNgUTEwWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
